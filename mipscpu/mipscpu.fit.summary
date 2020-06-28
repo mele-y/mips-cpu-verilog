@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Aug 14 20:46:10 2019
+Quartus II 64-Bit Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : mipscpu
+Top-level Entity Name : regFile
+Family : MAX II
+Device : EPM1270T144C5
+Timing Models : Final
+Total logic elements : 704 / 1,270 ( 55 % )
+Total pins : 113 / 116 ( 97 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
